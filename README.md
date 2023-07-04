@@ -17,8 +17,10 @@
 </span>
 </div>
 
-<!--GitHub Readme Activity Graph （GitHub 活动统计图）-->
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=weng-xiu&theme=radical" /> </div>
+<!--打字特效-->
+<h1 align="center"> 
+  <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎来到花满锤的家园！！！&center=true&size=27"> 
+  </a> </h1>
 
 <!--GitHub streak（GitHub 连续打卡）-->
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=weng-xiu" /> </div>
