@@ -3,13 +3,9 @@
   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=weng-xiu&show_icons=true&theme=radical"/> 
 </div>
 
+<!--语言使用统计：-->
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weng-xiu&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
-</div>
-
-<!--语言使用统计：-->
-<div align="center">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=weng-xiu&theme=radical&layout=compact"  /> 
 </div>
 
 <!--Shields（GitHub 徽章）-->
