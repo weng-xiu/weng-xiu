@@ -13,3 +13,6 @@
 
 <!--GitHub Readme Activity Graph （GitHub 活动统计图）-->
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=weng-xiu&theme=radical" /> </div>
+
+<!--GitHub streak（GitHub 连续打卡）-->
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=weng-xiu" /> </div>
