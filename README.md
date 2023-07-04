@@ -19,7 +19,7 @@
 
 <!--打字特效-->
 <h1 align="center"> 
-  <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到花满锤的家园！！！&center=true&size=27"> 
+  <a href="[https://sunguoqi.com/](https://www.yuque.com/u2304658432)"> <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到花满锤的家园！！！&center=true&size=27"> 
   </a> </h1>
 
 <!--GitHub streak（GitHub 连续打卡）-->
