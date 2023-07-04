@@ -12,4 +12,4 @@
 </span>
 
 <!--GitHub Readme Activity Graph （GitHub 活动统计图）-->
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=weng-xiu&theme=xcode" /> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=weng-xiu&theme=radical" /> </div>
