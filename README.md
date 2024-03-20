@@ -12,8 +12,14 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/weng-xiu/weng-xiu.github.io.svg?style=social)
 
 [![Github](https://img.shields.io/badge/github-wengxiu-brightgreen.svg)](https://github.com/weng-xiu)
+[![Gitee](https://img.shields.io/badge/Gitee-花满锤-brightgreen.svg)](https://gitee.com/wengxiulin-luman)
 [![掘金](https://img.shields.io/badge/%E6%8E%98%E9%87%91-花满锤-brightgreen.svg)](https://juejin.cn/user/3760749662439822)
 [![CSDN](https://img.shields.io/badge/csdn-花满锤-brightgreen.svg)](https://blog.csdn.net/weixin_55982954)
+[![语雀](https://img.shields.io/badge/语雀-花满锤-brightgreen.svg)](https://www.yuque.com/u2304658432)
+[![HMC](https://img.shields.io/badge/HMC-HMC-brightgreen.svg)](https://gitee.com/wengxiulin)
+[![BiliBili](https://img.shields.io/badge/BiliBili-HMCKY-brightgreen.svg)](https://space.bilibili.com/439928981)
+
+
 
 [//]: # ([![wechat]&#40;https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-%E9%9B%AA%E4%B9%8B%E6%A2%A6%E6%8A%80%E6%9C%AF%E9%A9%BF%E7%AB%99-brightgreen.svg&#41;]&#40;http://weixin.qq.com/r/cy5CWvvE5Kabrb8593th&#41;)
 [//]: # ([![慕课网]&#40;https://img.shields.io/badge/%E6%85%95%E8%AF%BE%E7%BD%91-%E9%9B%AA%E4%B9%8B%E6%A2%A6%E6%8A%80%E6%9C%AF%E9%A9%BF%E7%AB%99-brightgreen.svg&#41;]&#40;https://www.imooc.com/u/5224488/articles&#41;)
