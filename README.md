@@ -6,6 +6,10 @@
   </a> 
 </h1>
 
+<div align="center"> 
+    <img src="https://visitor-badge.glitch.me/badge?page_id=weng-xiu" /> 
+</div>
+
 ### **关于我**
 
 🚩编程爱好者
