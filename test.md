@@ -1,47 +1,15 @@
+
 <div align="center">
   <img src="https://metrics.lecoq.io/weng-xiu?template=classic&config.timezone=Asia%2FShanghai">
 </div>
 
-<br>
+</br>
 
-#### **关于我**
+<!--状态展示：-->
+<div align="center"> 
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=weng-xiu&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
+</div>
 
-🚩编程爱好者
-
-🌟书法爱好者
-
-⭐星际爱好者
-
-🎈雀粉谷粉鱼粉黑粉
-
-#### **我的**
-
-🚩标签 **|** 学生 程序猿 攻城狮 学习中 Coding
-
-👦交友 **|** 平等 尊重 相互 学习 鼓励 乐观 向上
-
-⭐爱好 **|** 计算机 编程 做饭干饭 书法 网上冲浪 小说
-
-😎状况 **|** 大四在读 找工作
-
-🌐专业 **|** 计算机专业 物联网工程
-
-📒 **|** 还没想好
-
-#### **联系我（联系请注明来意哦）**
-
-📧邮箱：wengxiulinluman@qq.con
-
-🐧QQ：2304658432
-
-#### **我的（点击图片跳转）**
-
-
-
-#### **友链（点击图片可以跳转呀）**
-
-想互链的小伙伴可以到留言板留言加入友链：
-[友链收集](https://www.yuque.com/forms/share/88fc53ba-723d-41b6-98ad-9e384479f65b)
 </br>
 
 <!--语言使用统计：-->
@@ -49,7 +17,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weng-xiu&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
 </div>
 
-<br>
+</br>
 
 <!--Shields（GitHub 徽章）-->
 <div align="center">
@@ -64,7 +32,7 @@
 </span>
 </div>
 
-<br>
+</br>
 
 <!--打字特效-->
 <h1 align="center"> 
@@ -73,7 +41,7 @@
   </a> 
 </h1>
 
-<br>
+</br>
 
 <!--GitHub streak（GitHub 连续打卡）-->
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=weng-xiu" /> </div>
