@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://metrics.lecoq.io/weng-xiu?template=classic&config.timezone=Asia%2FShanghai">
-</div>
+
+
+![](http://antzuhl.cn:4000/get/@weng-xiu)
 
 <br>
 
@@ -75,10 +75,6 @@
 </h1>
 
 <br>
-
-<div align="center"> 
-    <img src="https://activity-graph.herokuapp.com/graph?username=weng-xiu&theme=xcode" /> 
-</div>
 
 <br>
 
