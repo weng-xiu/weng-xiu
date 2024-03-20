@@ -11,10 +11,10 @@
 ![GitHub stars](https://img.shields.io/github/stars/weng-xiu/weng-xiu.github.io.svg?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/weng-xiu/weng-xiu.github.io.svg?style=social)
 
-[![Github](https://img.shields.io/badge/github-wengxiu-brightgreen.svg)](https://github.com/weng-xiu)
+[![Github](https://img.shields.io/badge/Github-wengxiu-brightgreen.svg)](https://github.com/weng-xiu)
 [![Gitee](https://img.shields.io/badge/Gitee-花满锤-brightgreen.svg)](https://gitee.com/wengxiulin-luman)
 [![掘金](https://img.shields.io/badge/%E6%8E%98%E9%87%91-花满锤-brightgreen.svg)](https://juejin.cn/user/3760749662439822)
-[![CSDN](https://img.shields.io/badge/csdn-花满锤-brightgreen.svg)](https://blog.csdn.net/weixin_55982954)
+[![CSDN](https://img.shields.io/badge/CSDN-花满锤-brightgreen.svg)](https://blog.csdn.net/weixin_55982954)
 [![语雀](https://img.shields.io/badge/语雀-花满锤-brightgreen.svg)](https://www.yuque.com/u2304658432)
 [![HMC](https://img.shields.io/badge/HMC-HMC-brightgreen.svg)](https://gitee.com/wengxiulin)
 [![BiliBili](https://img.shields.io/badge/BiliBili-HMCKY-brightgreen.svg)](https://space.bilibili.com/439928981)
