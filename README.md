@@ -7,7 +7,7 @@
 </h1>
 
 <div align="center"> 
-    <img src="https://visitor-badge.glitch.me/badge?page_id=weng-xiu" /> 
+    <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> 
 </div>
 
 ### **关于我**
