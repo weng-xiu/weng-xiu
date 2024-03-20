@@ -7,11 +7,8 @@
 ### **关于我**
 
 🚩编程爱好者
-
 🌟书法爱好者
-
 ⭐星际爱好者
-
 🎈雀粉谷粉鱼粉黑粉
 
 ### **我的标签**
@@ -35,13 +32,10 @@
 🐧**QQ**：2304658432
 
 ### **我的（点击跳转）**
-[**语雀**](https://www.yuque.com/u2304658432)
-
-[**Gitee**](https://gitee.com/wengxiulin-luman)
-
-[**HMC**](https://gitee.com/wengxiulin)
-
-[**BiliBili**](https://space.bilibili.com/439928981)
+  [**语雀**](https://www.yuque.com/u2304658432)
+| [**Gitee**](https://gitee.com/wengxiulin-luman)
+| [**HMC**](https://gitee.com/wengxiulin)
+| [**BiliBili**](https://space.bilibili.com/439928981)
 
 
 
@@ -79,6 +73,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到花满锤的家园！！！&center=true&size=27"> 
   </a> 
 </h1>
+
+<br>
+
+<div align="center"> 
+    <img src="https://activity-graph.herokuapp.com/graph?username=weng-xiu&theme=xcode" /> 
+</div>
 
 <br>
 
