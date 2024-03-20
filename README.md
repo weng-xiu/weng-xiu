@@ -48,14 +48,14 @@
 </br>
 
 <!--语言使用统计：-->
-<div align="center"> 
+<div> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weng-xiu&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
 </div>
 
 <br>
 
 <!--Shields（GitHub 徽章）-->
-<div align="center">
+<div>
 <span > 
   <img src="https://img.shields.io/badge/-Java-de6b6b?style=flat-square&logo=java&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Python-692626?style=flat-square&logo=Python&logoColor=white" /> 
@@ -69,11 +69,7 @@
 
 <br>
 
-
-
-<br>
-
-<br>
-
 <!--GitHub streak（GitHub 连续打卡）-->
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=weng-xiu" /> </div>
+<div> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=weng-xiu" /> 
+</div>
