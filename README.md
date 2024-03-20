@@ -1,6 +1,6 @@
 
 <!--打字特效-->
-<h1 align="center"> 
+<h1> 
   <a href="https://www.yuque.com/u2304658432"> 
     <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到花满锤的家园！！！&center=true&size=27"> 
   </a> 
