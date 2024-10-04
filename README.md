@@ -12,11 +12,12 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/weng-xiu/weng-xiu.github.io.svg?style=social)
 
 [![Github](https://img.shields.io/badge/Github-wengxiu-brightgreen.svg)](https://github.com/weng-xiu)
-[![Gitee](https://img.shields.io/badge/Gitee-花满锤-brightgreen.svg)](https://gitee.com/wengxiulin-luman)
+[![Gitee](https://img.shields.io/badge/Gitee-wengxiulin-brightgreen.svg)](https://gitee.com/wengxiulin-luman)
 [![掘金](https://img.shields.io/badge/%E6%8E%98%E9%87%91-花满锤-brightgreen.svg)](https://juejin.cn/user/3760749662439822)
 [![CSDN](https://img.shields.io/badge/CSDN-花满锤-brightgreen.svg)](https://blog.csdn.net/weixin_55982954)
 [![语雀](https://img.shields.io/badge/语雀-花满锤-brightgreen.svg)](https://www.yuque.com/u2304658432)
-[![HMC](https://img.shields.io/badge/HMC-HMC-brightgreen.svg)](https://gitee.com/wengxiulin)
+[![HMC开源组织](https://img.shields.io/badge/HMC-HMC-brightgreen.svg)](https://gitee.com/wengxiulin-weng)
+[![微信公众号](https://img.shields.io/badge/微信公众号-HMC开源-brightgreen.svg)](https://gitee.com/wengxiulin-weng)
 [![BiliBili](https://img.shields.io/badge/BiliBili-HMCKY-brightgreen.svg)](https://space.bilibili.com/439928981)
 
 
@@ -55,7 +56,7 @@
 
 📧**邮箱**：wengxiulinluman@qq.con
 
-🐧**QQ**：2304658432
+🐧**QQ**：1420780753
 
 ### **_ 👌我的（点击跳转）**
   [**语雀**](https://www.yuque.com/u2304658432)
