@@ -12,7 +12,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/weng-xiu/weng-xiu.github.io.svg?style=social)
 
 [![Github](https://img.shields.io/badge/Github-wengxiu-brightgreen.svg)](https://github.com/weng-xiu)
-[![Gitee](https://img.shields.io/badge/Gitee-wengxiulin-brightgreen.svg)](https://gitee.com/wengxiulin-luman)
+[![Gitee](https://img.shields.io/badge/Gitee-wengxiulin-brightgreen.svg)](https://gitee.com/wengxiulin)
 [![掘金](https://img.shields.io/badge/%E6%8E%98%E9%87%91-花满锤-brightgreen.svg)](https://juejin.cn/user/3760749662439822)
 [![CSDN](https://img.shields.io/badge/CSDN-花满锤-brightgreen.svg)](https://blog.csdn.net/weixin_55982954)
 [![语雀](https://img.shields.io/badge/语雀-花满锤-brightgreen.svg)](https://www.yuque.com/u2304658432)
@@ -38,19 +38,6 @@
 ⭐星际爱好者
 🎈雀粉谷粉鱼粉黑粉
 
-### **_ 🤘我的标签**
-
-🚩**标签** **|** 学生 程序猿 攻城狮 学习中 Coding
-
-👦**交友** **|** 平等 尊重 相互 学习 鼓励 乐观 向上
-
-⭐**爱好** **|** 计算机 编程 做饭干饭 书法 网上冲浪 小说
-
-😎**状况** **|** 大四在读 找工作
-
-🌐**专业** **|** 计算机专业 物联网工程
-
-📒 **|** 还没想好
 
 ### **_ 👉联系我（联系请注明来意哦）**
 
