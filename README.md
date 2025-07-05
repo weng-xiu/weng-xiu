@@ -6,11 +6,6 @@
   </a> 
 </h1>
 
-![GitHub followers](https://img.shields.io/github/followers/weng-xiu.svg?style=social)
-![GitHub forks](https://img.shields.io/github/forks/weng-xiu/weng-xiu.github.io.svg?style=social)
-![GitHub stars](https://img.shields.io/github/stars/weng-xiu/weng-xiu.github.io.svg?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/weng-xiu/weng-xiu.github.io.svg?style=social)
-
 [![Github](https://img.shields.io/badge/Github-wengxiu-brightgreen.svg)](https://github.com/weng-xiu)
 [![Gitee](https://img.shields.io/badge/Gitee-wengxiulin-brightgreen.svg)](https://gitee.com/wengxiulin)
 [![掘金](https://img.shields.io/badge/%E6%8E%98%E9%87%91-花满锤-brightgreen.svg)](https://juejin.cn/user/3760749662439822)
@@ -20,8 +15,6 @@
 [![微信公众号](https://img.shields.io/badge/微信公众号-HMC开源-brightgreen.svg)](https://gitee.com/wengxiulin-weng)
 [![BiliBili](https://img.shields.io/badge/BiliBili-HMCKY-brightgreen.svg)](https://space.bilibili.com/439928981)
 
-
-
 [//]: # ([![wechat]&#40;https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-%E9%9B%AA%E4%B9%8B%E6%A2%A6%E6%8A%80%E6%9C%AF%E9%A9%BF%E7%AB%99-brightgreen.svg&#41;]&#40;http://weixin.qq.com/r/cy5CWvvE5Kabrb8593th&#41;)
 [//]: # ([![慕课网]&#40;https://img.shields.io/badge/%E6%85%95%E8%AF%BE%E7%BD%91-%E9%9B%AA%E4%B9%8B%E6%A2%A6%E6%8A%80%E6%9C%AF%E9%A9%BF%E7%AB%99-brightgreen.svg&#41;]&#40;https://www.imooc.com/u/5224488/articles&#41;)
 [//]: # ([![简书]&#40;https://img.shields.io/badge/%E7%AE%80%E4%B9%A6-%E9%9B%AA%E4%B9%8B%E6%A2%A6%E6%8A%80%E6%9C%AF%E9%A9%BF%E7%AB%99-brightgreen.svg&#41;]&#40;https://www.jianshu.com/u/577b0d76ab87&#41;)
@@ -30,33 +23,9 @@
 [//]: # ([![开源中国]&#40;https://img.shields.io/badge/%E5%BC%80%E6%BA%90%E4%B8%AD%E5%9B%BD-%E9%9B%AA%E4%B9%8B%E6%A2%A6%E6%8A%80%E6%9C%AF%E9%A9%BF%E7%AB%99-brightgreen.svg&#41;]&#40;https://my.oschina.net/snowdreams1006&#41;)
 [//]: # ([![腾讯云社区]&#40;https://img.shields.io/badge/%E8%85%BE%E8%AE%AF%E4%BA%91%E7%A4%BE%E5%8C%BA-%E9%9B%AA%E4%B9%8B%E6%A2%A6%E6%8A%80%E6%9C%AF%E9%A9%BF%E7%AB%99-brightgreen.svg&#41;]&#40;https://cloud.tencent.com/developer/user/2952369/activities&#41;)
 
-
-### **_ 🤞关于我**
-
-🚩编程爱好者
-🌟书法爱好者
-⭐星际爱好者
-🎈雀粉谷粉鱼粉黑粉
-
-
 ### **_ 👉联系我（联系请注明来意哦）**
-
 📧**邮箱**：wengxiulinluman@qq.con
-
 🐧**QQ**：1420780753
-
-### **_ 👌我的（点击跳转）**
-  [**语雀**](https://www.yuque.com/u2304658432)
-| [**Gitee**](https://gitee.com/wengxiulin-luman)
-| [**HMC**](https://gitee.com/wengxiulin)
-| [**BiliBili**](https://space.bilibili.com/439928981)
-
-
-
-### **_ 👍友链（点击图片可以跳转呀）**
-
-想互链的小伙伴可以到留言板留言加入友链：
-[友链收集](https://www.yuque.com/forms/share/88fc53ba-723d-41b6-98ad-9e384479f65b)
 </br>
 
 <!--Shields（GitHub 徽章）-->
