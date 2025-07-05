@@ -40,20 +40,14 @@
   <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> 
 </span>
 </div>
-
 <br>
-
 <!--GitHub streak（GitHub 连续打卡）-->
 <div> 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=weng-xiu" /> 
 </div>
-
 <br>
-
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=weng-xiu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
-
 <br>
-
 <!--语言使用统计：-->
 <div> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weng-xiu&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
