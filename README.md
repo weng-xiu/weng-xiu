@@ -24,7 +24,7 @@
 [//]: # ([![腾讯云社区]&#40;https://img.shields.io/badge/%E8%85%BE%E8%AE%AF%E4%BA%91%E7%A4%BE%E5%8C%BA-%E9%9B%AA%E4%B9%8B%E6%A2%A6%E6%8A%80%E6%9C%AF%E9%A9%BF%E7%AB%99-brightgreen.svg&#41;]&#40;https://cloud.tencent.com/developer/user/2952369/activities&#41;)
 
 ### **_ 👉联系我（联系请注明来意哦）**
-📧**邮箱**：wengxiulinluman@qq.con
+📧**邮箱**：wengxiulin2001@163.com
 🐧**QQ**：2304658432
 </br>
 
