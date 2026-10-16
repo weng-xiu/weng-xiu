@@ -8,7 +8,7 @@
 
 <h1> 
   <a href="https://www.yuque.com/u2304658432"> 
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome to Huaman Chui's home！！！&center=true&size=27"> 
+    <img src="https://readme-typing-svg.herokuapp.com/?lines='Welcome to Huaman Chui's home！！！'&center=true&size=27"> 
   </a> 
 </h1>
 
