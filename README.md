@@ -2,13 +2,13 @@
 
 <!-- 动态打字特效 -->
 <a href="https://www.yuque.com/wengxiulin">
-  <img src="https://readme-typing-svg.demolab.com/?lines=欢迎来到花满锤的家园！！！;Welcome+to+Huaman+Chui's+home！！！&center=true&size=27">
+  <img src="https://readme-typing-svg.demolab.com/?lines=欢迎来到花满锤的家园！！！;Welcome+to+Huaman+Chui's+home！！！&center=true&size=27&color=7AA2F7">
 </a>
 
 <br>
 
 <!-- 访客计数 -->
-<img src="https://komarev.com/ghpvc/?username=weng-xiu&label=%E8%AE%BF%E5%AE%A2&color=brightgreen&style=flat-square" alt="访客">
+<img src="https://komarev.com/ghpvc/?username=weng-xiu&label=%E8%AE%BF%E5%AE%A2&color=7aa2f7&style=flat-square" alt="访客">
 
 </div>
 
@@ -36,13 +36,14 @@
 
 ## 📊 GitHub 数据
 
+<!-- 数据卡片统一 Tokyo Night 主题，深色模式下融入背景、强调色统一为 #7AA2F7 -->
 <div align="center">
-  <img height="137" src="https://github-readme-stats.vercel.app/api?username=weng-xiu&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a" alt="GitHub Stats">
+  <img height="137" src="https://github-readme-stats.vercel.app/api?username=weng-xiu&hide_title=true&hide_border=true&show_icons=true&line_height=21&rank_icon=github&theme=tokyonight" alt="GitHub Stats">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weng-xiu&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff" alt="Top Langs">
-  <img src="https://streak-stats.demolab.com/?user=weng-xiu&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weng-xiu&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=tokyonight" alt="Top Langs">
+  <img src="https://streak-stats.demolab.com/?user=weng-xiu&hide_border=true&theme=tokyonight" alt="GitHub Streak">
 </div>
 
 ## 🔗 社交主页
