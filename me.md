@@ -24,7 +24,7 @@
 
 #### **联系我（联系请注明来意哦）**
 
-📧邮箱：wengxiulinluman@qq.con
+📧邮箱：wengxiulinluman@qq.com
 
 🐧QQ：2304658432
 
