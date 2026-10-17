@@ -1,14 +1,14 @@
 <div align="center">
 
-<!-- 动态打字特效 -->
+<!-- 动态打字特效（自托管 SVG， SMIL 动画，不依赖外部服务） -->
 <a href="https://www.yuque.com/wengxiulin">
-  <img src="https://readme-typing-svg.demolab.com/?lines=欢迎来到虾仁不眨眼的家园！！！;Welcome+to+weng-xiu's+home！！！&center=true&size=27&color=7AA2F7">
+  <img src="typing.svg" alt="欢迎来到虾仁不眨眼的家园">
 </a>
 
 <br>
 
 <!-- 访客计数 -->
-<img src="https://komarev.com/ghpvc/?username=weng-xiu&label=%E8%AE%BF%E5%AE%A2&color=7aa2f7&style=flat-square" alt="访客">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=weng-xiu&left_text=%E8%AE%BF%E5%AE%A2&right_text=&style=flat-square" alt="访客">
 
 </div>
 
@@ -38,14 +38,14 @@
 
 ## 📊 GitHub 数据
 
-<!-- 数据卡片统一 Tokyo Night 主题，深色模式下融入背景、强调色统一为 #7AA2F7 -->
+<!-- 数据卡片统一 Tokyo Night 主题；统计卡全宽主卡，语言卡与打卡卡按百分比并排，三卡外边沿严格对齐 -->
 <div align="center">
-  <img height="137" src="https://github-readme-stats.vercel.app/api?username=weng-xiu&hide_title=true&hide_border=true&show_icons=true&line_height=21&rank_icon=github&theme=tokyonight" alt="GitHub Stats">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=weng-xiu&hide_title=true&hide_border=true&show_icons=true&line_height=21&rank_icon=github&theme=tokyonight" alt="GitHub Stats">
 </div>
 
 <div align="center">
-  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weng-xiu&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=tokyonight" alt="Top Langs">
-  <img width="400" src="https://streak-stats.demolab.com/?user=weng-xiu&hide_border=true&theme=tokyonight" alt="GitHub Streak">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weng-xiu&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=tokyonight" alt="Top Langs">
+  <img width="58%" src="https://streak-stats.demolab.com/?user=weng-xiu&hide_border=true&theme=tokyonight" alt="GitHub Streak">
 </div>
 
 ---
