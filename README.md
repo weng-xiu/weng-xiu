@@ -25,7 +25,7 @@
 ## 🛠️ 技术栈
 
 <!-- 徽章与仓库语言数据对齐：Java/HTML/Vue/JS/CSS 有公开数据支撑，Python 经 Jupyter Notebook（22.5%）佐证；C/C++ 无数据支撑暂撤 -->
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/-Java-de6b6b?style=flat-square&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/-Python-692626?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
@@ -33,6 +33,8 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3">
   <img src="https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=javascript" alt="JavaScript">
 </p>
+
+---
 
 ## 📊 GitHub 数据
 
@@ -42,9 +44,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weng-xiu&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=tokyonight" alt="Top Langs">
-  <img src="https://streak-stats.demolab.com/?user=weng-xiu&hide_border=true&theme=tokyonight" alt="GitHub Streak">
+  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weng-xiu&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=tokyonight" alt="Top Langs">
+  <img width="400" src="https://streak-stats.demolab.com/?user=weng-xiu&hide_border=true&theme=tokyonight" alt="GitHub Streak">
 </div>
+
+---
 
 ## 🔗 社交主页
 
@@ -62,7 +66,7 @@
 
 ## 📮 联系我（联系请注明来意哦）
 
-📧 **邮箱**：[wengxiulin2001@163.com](mailto:wengxiulin2001@163.com)　🐧 **QQ**：2304658432
+<p align="center">📧 <strong>邮箱</strong>：<a href="mailto:wengxiulin2001@163.com">wengxiulin2001@163.com</a>　🐧 <strong>QQ</strong>：2304658432</p>
 
 ---
 
