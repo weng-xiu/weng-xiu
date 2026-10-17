@@ -8,7 +8,7 @@
 <br>
 
 <!-- 访客计数 -->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=weng-xiu&left_text=%E8%AE%BF%E5%AE%A2&right_text=&style=flat-square" alt="访客(visitor)">
+<img src="https://komarev.com/ghpvc/?username=weng-xiu&label=Visitors&color=7aa2f7&style=flat-square" alt="访客(visitor)">
 
 </div>
 
