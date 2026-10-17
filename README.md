@@ -8,7 +8,7 @@
 <br>
 
 <!-- 访客计数 -->
-<img src="https://komarev.com/ghpvc/?username=weng-xiu&label=Visitors&color=7aa2f7&style=flat-square" alt="访客(visitor)">
+<img src="https://komarev.com/ghpvc/?username=weng-xiu&label=Visitors&color=7aa2f7&style=flat-square" alt="visitor">
 
 </div>
 
