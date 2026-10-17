@@ -2,7 +2,7 @@
 
 <!-- 动态打字特效 -->
 <a href="https://www.yuque.com/wengxiulin">
-  <img src="https://readme-typing-svg.demolab.com/?lines=欢迎来到花满锤的家园！！！;Welcome+to+Huaman+Chui's+home！！！&center=true&size=27&color=7AA2F7">
+  <img src="https://readme-typing-svg.demolab.com/?lines=欢迎来到虾仁不眨眼的家园！！！;Welcome+to+weng-xiu's+home！！！&center=true&size=27&color=7AA2F7">
 </a>
 
 <br>
@@ -24,12 +24,12 @@
 
 ## 🛠️ 技术栈
 
+<!-- 徽章与仓库语言数据对齐：Java/HTML/Vue/JS/CSS 有公开数据支撑，Python 经 Jupyter Notebook（22.5%）佐证；C/C++ 无数据支撑暂撤 -->
 <p>
   <img src="https://img.shields.io/badge/-Java-de6b6b?style=flat-square&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/-Python-692626?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-C-ff0000?style=flat-square&logo=c" alt="C">
-  <img src="https://img.shields.io/badge/-C++-FFD700?style=flat-square&logo=c%2B%2B" alt="C++">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3">
   <img src="https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=javascript" alt="JavaScript">
 </p>
@@ -48,15 +48,16 @@
 
 ## 🔗 社交主页
 
+<!-- 徽章色与 Tokyo Night 主题强调蓝 #7AA2F7 对齐 -->
 <p align="center">
-  <a href="https://github.com/weng-xiu"><img src="https://img.shields.io/badge/Github-wengxiu-brightgreen?style=flat-square" alt="Github"></a>
-  <a href="https://gitee.com/wengxiulin"><img src="https://img.shields.io/badge/Gitee-wengxiulin-brightgreen?style=flat-square" alt="Gitee"></a>
-  <a href="https://juejin.cn/user/3760749662439822"><img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E8%8A%B1%E6%BA%A1%E9%94%A4-brightgreen?style=flat-square" alt="掘金"></a>
-  <a href="https://blog.csdn.net/weixin_55982954"><img src="https://img.shields.io/badge/CSDN-%E8%8A%B1%E6%BA%A1%E9%94%A4-brightgreen?style=flat-square" alt="CSDN"></a>
-  <a href="https://www.yuque.com/wengxiulin"><img src="https://img.shields.io/badge/%E8%AF%AD%E9%9B%80-%E8%8A%B1%E6%BA%A1%E9%94%A4-brightgreen?style=flat-square" alt="语雀"></a>
-  <a href="https://gitee.com/wengxiulin-weng"><img src="https://img.shields.io/badge/HMC%E5%BC%80%E6%BA%90%E7%BB%84%E7%BB%87-HMC-brightgreen?style=flat-square" alt="HMC开源组织"></a>
-  <a href="https://gitee.com/wengxiulin-weng"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-HMC%E5%BC%80%E6%BA%90-brightgreen?style=flat-square" alt="微信公众号"></a>
-  <a href="https://space.bilibili.com/439928981"><img src="https://img.shields.io/badge/BiliBili-HMCKY-brightgreen?style=flat-square" alt="BiliBili"></a>
+  <a href="https://github.com/weng-xiu"><img src="https://img.shields.io/badge/Github-wengxiu-7AA2F7?style=flat-square" alt="Github"></a>
+  <a href="https://gitee.com/wengxiulin"><img src="https://img.shields.io/badge/Gitee-wengxiulin-7AA2F7?style=flat-square" alt="Gitee"></a>
+  <a href="https://juejin.cn/user/3760749662439822"><img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E8%8A%B1%E6%BA%A1%E9%94%A4-7AA2F7?style=flat-square" alt="掘金"></a>
+  <a href="https://blog.csdn.net/weixin_55982954"><img src="https://img.shields.io/badge/CSDN-%E8%8A%B1%E6%BA%A1%E9%94%A4-7AA2F7?style=flat-square" alt="CSDN"></a>
+  <a href="https://www.yuque.com/wengxiulin"><img src="https://img.shields.io/badge/%E8%AF%AD%E9%9B%80-%E8%8A%B1%E6%BA%A1%E9%94%A4-7AA2F7?style=flat-square" alt="语雀"></a>
+  <a href="https://gitee.com/wengxiulin-weng"><img src="https://img.shields.io/badge/HMC%E5%BC%80%E6%BA%90%E7%BB%84%E7%BB%87-HMC-7AA2F7?style=flat-square" alt="HMC开源组织"></a>
+  <a href="https://gitee.com/wengxiulin-weng"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-HMC%E5%BC%80%E6%BA%90-7AA2F7?style=flat-square" alt="微信公众号"></a>
+  <a href="https://space.bilibili.com/439928981"><img src="https://img.shields.io/badge/BiliBili-HMCKY-7AA2F7?style=flat-square" alt="BiliBili"></a>
 </p>
 
 ## 📮 联系我（联系请注明来意哦）
